@@ -18,6 +18,8 @@
     <a href="get-form.php"> Formulário com GET</a>
     <br>
     <a href="post-form.php"> Formulário com POST</a>
+    <br>
+    <a href="post-endereco.php"> Formulario com POST 2 </a>
 
 
 </body>
